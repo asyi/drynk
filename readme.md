@@ -7,7 +7,7 @@ Instructions
 1. `yarn install`
 1. `yarn start`
 1. Test by going to: [http://localhost:1337/api/items](http://localhost:1337/api/items)
-1. The front-end can be found here: [https://github.com/asyi/drynk-front](https://github.com/asyi/drynk)
+1. The front-end can be found here: [https://github.com/asyi/drynk-front](https://github.com/asyi/drynk-front)
 
 Resources
 ===============
